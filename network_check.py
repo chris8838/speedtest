@@ -1,10 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-__author__ = 'Christopher Hoffmann'
-__contact__ = 'christopher.hoffmann@zalando.de'
+__author__ = 'chris8838'
+__contact__ = 'lpkain@outlook.de'
 __license__ = 'MIT'
-__copyright__ = '(c) by Zalando SE'
+__copyright__ = '(c) by Me!'
 __version__ = '0.1.0'
 
 import pyspeedtest
